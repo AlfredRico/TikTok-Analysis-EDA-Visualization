@@ -18,7 +18,7 @@ The data is:
 ## Key Insights
 
 * Claim videos account for a much larger share of total views despite similar counts to opinion videos, showing that they reach a wider audience.
-* Higher engagement—especially view count—is consistently tied to claim content, making it a strong signal for distinguishing claim versus opinion videos.
+* Higher engagement, especially view count, is consistently tied to claim content, making it a strong signal for distinguishing claim versus opinion videos.
 * Authors who post claim videos are more likely to be under review or banned, suggesting a clear link between claim content and moderation outcomes.
 * Verified users are more likely to post opinion videos, indicating that account status may influence the type of content being shared.
 * Engagement data is heavily skewed by a small number of high-performing videos, meaning outliers will need to be handled carefully in any predictive model.
